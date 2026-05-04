@@ -67,7 +67,13 @@ The dataset contains MRI images organized into two classes:
 
 ## Results
 
-The model demonstrates the ability to classify MRI images into tumor and non-tumor categories. Performance is evaluated using classification metrics and visualized predictions to better understand model behavior.
+The model achieved a validation accuracy of XX%.
+
+Evaluation was performed using:
+- Precision, Recall, and F1-score  
+- Prediction probability visualization  
+
+These results reflect the model’s performance in distinguishing between tumor and non-tumor MRI images.
 
 ## How to Run
 
